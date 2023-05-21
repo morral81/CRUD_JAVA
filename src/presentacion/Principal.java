@@ -15,6 +15,8 @@ public class Principal {
             System.out.println(emp.toString());
         }*/
 
+    /*asdfasfd
+
         /*insertar empleado */
         /*  EmpleadoDAO empleadoDao   = new EmpleadoDAO();
         Empleado empleadoInsertar = new Empleado("Karla", "Romero", 40, 1500.50);
