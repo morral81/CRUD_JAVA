@@ -5,7 +5,6 @@ import java.util.List;
 
 public class Principal {
     public static void main(String[] args) {
-        
         /*mostrar empleado */
         /*EmpleadoDAO empleadoDao = new EmpleadoDAO();
         List<Empleado> empleados = empleadoDao.mostrar();
@@ -25,7 +24,7 @@ public class Principal {
         }*/
 
 
-            /*actualizar empleado */
+        /*actualizar empleado */
         /* 
         EmpleadoDAO empleadoDao     = new EmpleadoDAO();
         Empleado empleadoActualizar = new Empleado(7,"Karla", "Romero", 40, 1800.00);
@@ -35,10 +34,7 @@ public class Principal {
         for (Empleado emp : empleados) {
             System.out.println(emp.toString());
         }*/
-        //
-        //
-
-        
+    
         /*eliminar empleado */
         EmpleadoDAO empleadoDao     = new EmpleadoDAO();
         Empleado empleadoEliminar   = new Empleado(5);
