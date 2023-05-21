@@ -15,6 +15,7 @@ public class Empleado {
     public Empleado(int codigoEmpleado) {
         this.codigoEmpleado = codigoEmpleado;
     }
+    
 
     public Empleado(String nombre, String apellido, int edad, double sueldo) {
         this.nombre   = nombre;
