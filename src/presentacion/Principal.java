@@ -15,7 +15,8 @@ public class Principal {
             System.out.println(emp.toString());
         }*/
 
-    /*asdfasfd
+    /*asdfasfd*/
+    /*juan manuel gomez */
 
         /*insertar empleado */
         /*  EmpleadoDAO empleadoDao   = new EmpleadoDAO();
