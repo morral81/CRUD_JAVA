@@ -9,6 +9,8 @@ public class Principal {
         /*EmpleadoDAO empleadoDao = new EmpleadoDAO();
         List<Empleado> empleados = empleadoDao.mostrar();
 
+        /* HOLA PRUEBA PARA GIT 4 */
+
         for (Empleado emp : empleados) {
             System.out.println(emp.toString());
         }*/
